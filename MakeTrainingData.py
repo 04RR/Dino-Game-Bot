@@ -1,7 +1,7 @@
 import win32api as wapi
 import os
 import cv2
-from grabscreen import grab_screen
+from GrabScreen import get_screen
 import numpy as np
 
 
